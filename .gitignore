@@ -42,3 +42,6 @@ log/
 # Local development
 .env.local
 .env.*.local 
+
+MinerU/
+graphrag/
